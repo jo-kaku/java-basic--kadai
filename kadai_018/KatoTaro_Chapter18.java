@@ -4,7 +4,7 @@ public class  KatoTaro_Chapter18 extends Kato_Chapter18 {
 	
 	//コンストラクタで名前を設定
 	public KatoTaro_Chapter18() {
-        
+		
 	}
 	
 	//名を表すフィールド
