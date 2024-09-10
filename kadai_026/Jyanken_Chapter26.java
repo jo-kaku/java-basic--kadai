@@ -41,6 +41,7 @@ public class Jyanken_Chapter26 {
 	if(me.equals(you)) {
 	System.out.println("あいこです");
 	} else if ((me.equals("r") && you.equals("s")) || (me.equals("s") && you.equals("p") ) || (me.equals("p") && you.equals("r"))) {
+		System.out.println("自分の勝ちです");
 		} else {
 			System.out.println("自分の負けです");
 		}
