@@ -7,6 +7,9 @@ import java.util.Scanner;
 public class Jyanken_Chapter26 {
 	public String getMyChoice() {
 		System.out.println("自分のジャンケンの手を入力する");
+		System.out.println("グーはrockのrを入力しましょう");
+		System.out.println("チョキはscissorsのsを入力しましょう");
+		System.out.println("パーはpaperのpを入力しましょう");
 		//出した手の取得		
 		Scanner scanner = new Scanner(System.in);
 		String myChoice = scanner.next();
